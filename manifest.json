@@ -1,10 +1,10 @@
 {
   "source": "data",
-  "syncedAt": "2026-09-04T21:15:38.109Z",
-  "latest": "05.09.2026-00_09.json",
+  "syncedAt": "2026-09-04T23:37:58.619Z",
+  "latest": "05.09.2026-02_31.json",
   "map": {
     "url": "data/map-latest.json",
-    "count": 20927
+    "count": 20884
   },
   "chart": {
     "url": "data/chart-days.json",
