@@ -1,17 +1,17 @@
 {
   "source": "data",
-  "syncedAt": "2026-09-08T19:10:36.986Z",
-  "latest": "08.09.2026-22_05.json",
+  "syncedAt": "2026-09-08T22:11:36.407Z",
+  "latest": "09.09.2026-01_07.json",
   "map": {
     "url": "data/map-latest.json",
-    "count": 21160
+    "count": 21112
   },
   "chart": {
     "url": "data/chart-days.json",
-    "days": 68
+    "days": 69
   },
   "regions": {
     "url": "data/regions-days.json",
-    "days": 68
+    "days": 69
   }
 }
